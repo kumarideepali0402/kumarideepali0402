@@ -1,4 +1,12 @@
 ## Hi there 👋
+I'm Deepali, a 2nd year student at IIT Guwahati doing BSc. (Hons) in Data Science and AI.
+
+- 🔭 I’m currently working at HueLearn, as an AI Content Creator.
+- 🌱 I’m currently learning Machine Learning and JS.
+- 👯 I’m looking to collaborate on any development project.
+- 📫 How to reach me:
+      - LinkedIN(https://www.linkedin.com/in/deepalikumari--/) 
+
 
 <!--
 **kumarideepali0402/kumarideepali0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
