@@ -4,8 +4,7 @@ I'm Deepali, a 2nd year student at IIT Guwahati doing BSc. (Hons) in Data Scienc
 - 🔭 I’m currently working at HueLearn, as an AI Content Creator.
 - 🌱 I’m currently learning Machine Learning and JS.
 - 👯 I’m looking to collaborate on JS related development project.
-- 📫 How to reach me:
-      - LinkedIN(https://www.linkedin.com/in/deepalikumari--/) 
+
 
 
 <!--
