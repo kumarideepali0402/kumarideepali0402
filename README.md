@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Deepali, a 2nd year student at IIT Guwahati doing BSc. (Hons) in Data Science and AI.
+I'm Deepali, a 2nd year student at IIT Guwahati, doing BSc. (Hons) in Data Science and AI.
 
 - 🌱 I’m currently learning Machine Learning,JS and related frameworks.
 - 👯 I’m looking to collaborate on JS related development project.
