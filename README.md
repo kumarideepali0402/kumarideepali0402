@@ -1,55 +1,96 @@
-# Hi there, I'm Deepali Kumari! 👋
+<h1 align="center">Hi, I'm Deepali Kumari 👋</h1>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/deepalikumari--/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:deepalikumari62004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<p align="center">
+  BSc (Hons) Data Science & AI · IIT Guwahati &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; AI Enthusiast
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/deepalikumari--/">LinkedIn</a> ·
+  <a href="mailto:deepalikumari62004@gmail.com">Email</a> ·
+  <a href="https://codeforces.com/profile/_dips">Codeforces</a> ·
+  <a href="https://leetcode.com/u/_dips/">LeetCode</a> ·
+  Bengaluru, India
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-I am a 3rd-year student at **IIT Guwahati**, pursuing a **BSc. (Hons) in Data Science and Artificial Intelligence**. I specialize in blending intelligent data-driven AI systems with modern full-stack web applications.
+I'm a 3rd-year undergraduate at IIT Guwahati studying Data Science and Artificial Intelligence, currently building at **Physics Wallah Institute of Innovation**. I like turning ideas into working products — whether that's a competitive programming analytics platform, a chat search engine, or a full MERN-stack application.
 
-* 🎓 **Education:** Data Science & AI @ IIT Guwahati
-* 💻 **Tech Interests:** Full-Stack Web Development, LLM Implementations, and Analytical Tracking Systems
-* 👯 **Collaboration:** Always open to collaborating on JavaScript/TypeScript web applications and AI integrations
+My work sits at the intersection of **web engineering** and **AI** — I care about systems that are fast, well-structured, and actually useful. I also grind DSA regularly on Codeforces and LeetCode under the handle **_dips**.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### What I'm Working On
 
-#### **AI & Data Science**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-
-#### **Full-Stack Web Development**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-#### **Languages & Utilities**
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- **CodeLytics** — an institutional competitive programming tracker with batch management, teacher assignments, and analytics across multiple coding platforms
+- Exploring **LangChain** and agentic AI workflows in Python
+- Sharpening my DSA and system design fundamentals
 
 ---
 
-### 💻 Featured Projects
+### Tech Stack
 
-* **[CodeLytics](https://github.com/kumarideepali0402/CodeLytics)** 📊
-  An institution-level personalized competitive programming tracker. Built to handle batch management, teacher assignments across LeetCode, Codeforces, and GFG, featuring an analytical problem-student tracking matrix.
-* **[ChatSleuth](https://github.com/kumarideepali0402/ChatSleuth)** 🔍
-  A highly responsive, custom WhatsApp-style chat search engine engine optimized for slick front-end performance and seamless navigation.
-* **[Snake-Shake](https://github.com/kumarideepali0402/Snake-Shake)** 🐍
-  A classic arcade variant developed entirely with Python's object-oriented principles and the Turtle graphics library.
+**Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+**Backend & Data**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**AI / ML**
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 ---
 
-### 📊 GitHub Analytics
+### Featured Projects
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumarideepali0402&show_icons=true&theme=dark&hide_border=true" alt="Deepali's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarideepali0402&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160" />
+| Project | What it does | Stack |
+|---|---|---|
+| [CodeLytics](https://github.com/kumarideepali0402/CodeLytics) | Competitive programming tracker with batch & analytics | React · Node · SQL |
+| [ChatSleuth](https://github.com/kumarideepali0402/ChatSleuth) | WhatsApp-style chat search engine, optimized for perf | JS · Python · HTML |
+| [LeetcodeClone](https://github.com/kumarideepali0402/LeetcodeClone) | Coding practice platform | MERN |
+| [ZomatoFlix](https://github.com/kumarideepali0402/ZomatoFlix) | Food discovery + short-form video | JavaScript |
+| [auth-MERN-app](https://github.com/kumarideepali0402/auth-MERN-app) | Full auth system (register/login/sessions) | MERN |
+
+---
+
+### Competitive Programming
+
+<p align="center">
+  <a href="https://codeforces.com/profile/_dips">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=_dips&theme=dark&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/_dips/">
+    <img src="https://leetcard.jacoblin.cool/_dips?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
 </p>
 
 ---
 
-### 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/deepalikumari--](https://www.linkedin.com/in/deepalikumari--/)
-* **Email:** [deepalikumari62004@gmail.com](mailto:deepalikumari62004@gmail.com)
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kumarideepali0402&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarideepali0402&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+<p align="center">
+  <em>Currently upskilling · Open to internships and collaborations</em>
+</p>
