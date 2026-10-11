@@ -6,7 +6,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepali+Kumari;Final-year+DS+%26+AI+%40+IIT+Guwahati;Full-Stack+%C3%97+Agentic+AI+Builder;RAG+%C2%B7+LangChain+%C2%B7+LangGraph;Turning+ideas+into+working+products" alt="Typing SVG" />
 </h1>
 
-
+<p align="center">
+  <a href="https://linkedin.com/in/deepalikumari--/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:deepalikumari62004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://deepali-portfolio-zeta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  
+</p>
 
 ---
 
@@ -16,7 +21,7 @@ Final-year undergraduate at **IIT Guwahati** studying **Data Science & Artificia
 
 My work sits at the intersection of **web engineering** and **AI** — I care about systems that are fast, well-structured, and actually useful.
 
-- 🔭 Currently building **CodeCrush** — a platform that helps engineers match, network & collaborate based on their tech stack
+
 - 🤖 Deep into **agentic AI systems with LangGraph** and RAG architectures
 - 🏗️ Architecting a **microservices-based backend** (Node.js · Prisma · Redis · Docker)
 - 🧠 Sharpening **DSA & system design** fundamentals
