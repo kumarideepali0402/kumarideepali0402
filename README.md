@@ -74,18 +74,7 @@ Final-year **Data Science & AI** undergrad at **IIT Guwahati**, currently a **Fu
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumarideepali0402&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarideepali0402&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarideepali0402&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
----
 
 ### 🏅 Achievements
 
@@ -95,13 +84,7 @@ Final-year **Data Science & AI** undergrad at **IIT Guwahati**, currently a **Fu
 
 ---
 
-### 🐍 Watch my contributions get eaten
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kumarideepali0402/kumarideepali0402/output/snake.svg" alt="Snake animation" />
-</p>
-
----
 
 <div align="center">
   <em>Currently upskilling · Open to internships and collaborations</em>
