@@ -79,10 +79,16 @@ My work sits at the intersection of **web engineering** and **AI** — I care ab
 
 ---
 
+### 🐍 Watch my contributions get eaten
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kumarideepali0402/kumarideepali0402/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
+<div align="center">
+  <em>Currently upskilling · Open to internships and collaborations</em>
 
 ---
 
