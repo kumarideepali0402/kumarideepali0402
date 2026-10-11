@@ -14,9 +14,7 @@
 
 ### 🚀 About Me
 
-Final-year undergraduate at **IIT Guwahati** studying **Data Science & Artificial Intelligence**. I like turning ideas into working products — whether that's a multi-tenant competitive programming platform, a real-time collaborative whiteboard, or a RAG pipeline that chats with YouTube videos.
-
-My work sits at the intersection of **web engineering** and **AI** — I care about systems that are fast, well-structured, and actually useful.
+Final-year **Data Science & AI** undergrad at **IIT Guwahati**, currently a **Full-Stack Development Intern at 2une by Physics Wallah**. I like taking ideas from a blank editor to a shipped product — and I've done it enough times to know that good engineering is less about clever code and more about systems that are fast, reliable, and actually useful to someone.
 
 - 💼 Full-Stack Development Intern at **2une by Physics Wallah** · ex-SDE Intern at **Tribore AI**
 - 🤖 Deep into **agentic AI systems with LangGraph** and RAG architectures
