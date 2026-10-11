@@ -44,6 +44,7 @@ Final-year **Data Science & AI** undergrad at **IIT Guwahati**, currently a **Fu
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangSmith-00A67E?style=flat&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=flat"/>
