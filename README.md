@@ -87,10 +87,6 @@ My work sits at the intersection of **web engineering** and **AI** — I care ab
 
 ---
 
-<div align="center">
-  <em>Currently upskilling · Open to internships and collaborations</em>
-
----
 
 <div align="center">
   <em>Currently upskilling · Open to internships and collaborations</em>
