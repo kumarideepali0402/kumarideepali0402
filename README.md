@@ -63,7 +63,6 @@ My work sits at the intersection of **web engineering** and **AI** — I care ab
 | [CodeLytics](https://github.com/kumarideepali0402/CodeLytics) | Multi-tenant CP tracker — batches, assignments, leaderboards & analytics ([live](https://codelyticsfrontend.onrender.com)) | React · Node · SQL · Tailwind |
 | [CodeCrush](https://github.com/kumarideepali0402/CodeCrush) | Match, network & collaborate with engineers by tech stack | JavaScript · MERN |
 | [CoCanvas](https://github.com/kumarideepali0402/CoCanvas) | Real-time collaborative whiteboard with room-based canvases | TypeScript · WebSockets |
-| [Inventory](https://github.com/kumarideepali0402/Inventory) | Race-condition-free inventory & order-fulfillment platform ([live](https://inventory-t9m1.vercel.app/)) | Next.js · Prisma · Neon Postgres |
 | [ZomatoFlix](https://github.com/kumarideepali0402/ZomatoFlix) | Food discovery via short-form restaurant videos | JavaScript · MERN |
 | [ChatSleuth](https://github.com/kumarideepali0402/ChatSleuth) | WhatsApp-style chat search engine ([live](https://chatbotwithdeepali.onrender.com/)) | JS · Python · HTML |
 
@@ -82,13 +81,6 @@ My work sits at the intersection of **web engineering** and **AI** — I care ab
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kumarideepali0402&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
 
 ### 📈 Contribution Activity
 
@@ -98,11 +90,6 @@ My work sits at the intersection of **web engineering** and **AI** — I care ab
 
 ---
 
-### 🐍 Watch my contributions get eaten
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kumarideepali0402/kumarideepali0402/output/snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
