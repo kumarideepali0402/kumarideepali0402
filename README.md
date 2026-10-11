@@ -19,8 +19,7 @@ Final-year **Data Science & AI** undergrad at **IIT Guwahati**, currently a **Fu
 - 💼 Full-Stack Development Intern at **2une by Physics Wallah** · ex-SDE Intern at **Tribore AI**
 - 🤖 Deep into **agentic AI systems with LangGraph** and RAG architectures
 - 🏗️ Architecting a **microservices-based backend** (Node.js · Prisma · Redis · Docker)
-- 🧠 **600+ DSA problems** solved · sharpening system design fundamentals
-- 📍 Bengaluru, India
+
 
 ---
 
