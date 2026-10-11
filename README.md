@@ -92,7 +92,7 @@ My work sits at the intersection of **web engineering** and **AI** — I care ab
 
 - 🥇 **600+ DSA problems** solved across LeetCode, GeeksForGeeks, Codeforces, CodeChef, USACO & CSES
 - 🏆 **Top 15 of 130+ teams** — AWS × PartyRock Hackathon
-- 🌍 Built & deployed a full-stack website for **Nav Chetna Sangh NGO** — Razorpay donations + SEO
+- 🌍 Built & deployed the website for **Nav Chetna Sangh NGO** — Razorpay donations + SEO ([navchetnasangh.org](https://www.navchetnasangh.org/))
 
 ---
 
