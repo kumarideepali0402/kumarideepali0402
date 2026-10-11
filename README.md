@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Deepali%20Kumari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20Agentic%20Systems&descAlignY=55&descSize=18" width="100%"/>
-</div>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepali+Kumari;Final-year+DS+%26+AI+%40+IIT+Guwahati;Full-Stack+%C3%97+Agentic+AI+Builder;RAG+%C2%B7+LangChain+%C2%B7+LangGraph;Turning+ideas+into+working+products" alt="Typing SVG" />
